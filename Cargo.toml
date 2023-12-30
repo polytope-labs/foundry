@@ -73,4 +73,4 @@ ethers-etherscan = { git = "https://github.com/gakonst/ethers-rs", rev = "594627
 ethers-solc = { git = "https://github.com/gakonst/ethers-rs", rev = "594627dc1c3b490ba8f513f8f5e23d11448cbcf8", default-features = false }
 
 solang-parser = "=0.3.1"
-revm = { git = "https://github.com/bluealloy/revm/", branch = "release/v25" }
+revm = { git = "https://github.com/bluealloy/revm/", rev = "88337924f4d16ed1f5e4cde12a03d0cb755cd658" }
