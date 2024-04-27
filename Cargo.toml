@@ -61,16 +61,16 @@ panic = "abort"
 codegen-units = 1
 
 [workspace.dependencies]
-ethers = { git = "https://github.com/polytope-labs/ethers-rs", rev = "9f77fc1a07ea90059b4d53eeffda569bb126564e", default-features = false }
-ethers-addressbook = { git = "https://github.com/polytope-labs/ethers-rs", rev = "9f77fc1a07ea90059b4d53eeffda569bb126564e", default-features = false }
-ethers-core = { git = "https://github.com/polytope-labs/ethers-rs", rev = "9f77fc1a07ea90059b4d53eeffda569bb126564e", default-features = false }
-ethers-contract = { git = "https://github.com/polytope-labs/ethers-rs", rev = "9f77fc1a07ea90059b4d53eeffda569bb126564e", default-features = false }
-ethers-contract-abigen = { git = "https://github.com/polytope-labs/ethers-rs", rev = "9f77fc1a07ea90059b4d53eeffda569bb126564e", default-features = false }
-ethers-providers = { git = "https://github.com/polytope-labs/ethers-rs", rev = "9f77fc1a07ea90059b4d53eeffda569bb126564e", default-features = false }
-ethers-signers = { git = "https://github.com/polytope-labs/ethers-rs", rev = "9f77fc1a07ea90059b4d53eeffda569bb126564e", default-features = false }
-ethers-middleware = { git = "https://github.com/polytope-labs/ethers-rs", rev = "9f77fc1a07ea90059b4d53eeffda569bb126564e", default-features = false }
-ethers-etherscan = { git = "https://github.com/polytope-labs/ethers-rs", rev = "9f77fc1a07ea90059b4d53eeffda569bb126564e", default-features = false }
-ethers-solc = { git = "https://github.com/polytope-labs/ethers-rs", rev = "9f77fc1a07ea90059b4d53eeffda569bb126564e", default-features = false }
+ethers = { git = "https://github.com/polytope-labs/ethers-rs", rev = "a61f4fd78cd9a417c74a1609e5007e17f0f0ebb4", default-features = false }
+ethers-addressbook = { git = "https://github.com/polytope-labs/ethers-rs", rev = "a61f4fd78cd9a417c74a1609e5007e17f0f0ebb4", default-features = false }
+ethers-core = { git = "https://github.com/polytope-labs/ethers-rs", rev = "a61f4fd78cd9a417c74a1609e5007e17f0f0ebb4", default-features = false }
+ethers-contract = { git = "https://github.com/polytope-labs/ethers-rs", rev = "a61f4fd78cd9a417c74a1609e5007e17f0f0ebb4", default-features = false }
+ethers-contract-abigen = { git = "https://github.com/polytope-labs/ethers-rs", rev = "a61f4fd78cd9a417c74a1609e5007e17f0f0ebb4", default-features = false }
+ethers-providers = { git = "https://github.com/polytope-labs/ethers-rs", rev = "a61f4fd78cd9a417c74a1609e5007e17f0f0ebb4", default-features = false }
+ethers-signers = { git = "https://github.com/polytope-labs/ethers-rs", rev = "a61f4fd78cd9a417c74a1609e5007e17f0f0ebb4", default-features = false }
+ethers-middleware = { git = "https://github.com/polytope-labs/ethers-rs", rev = "a61f4fd78cd9a417c74a1609e5007e17f0f0ebb4", default-features = false }
+ethers-etherscan = { git = "https://github.com/polytope-labs/ethers-rs", rev = "a61f4fd78cd9a417c74a1609e5007e17f0f0ebb4", default-features = false }
+ethers-solc = { git = "https://github.com/polytope-labs/ethers-rs", rev = "a61f4fd78cd9a417c74a1609e5007e17f0f0ebb4", default-features = false }
 
 solang-parser = "=0.3.1"
 revm = { git = "https://github.com/bluealloy/revm/", rev = "88337924f4d16ed1f5e4cde12a03d0cb755cd658" }
