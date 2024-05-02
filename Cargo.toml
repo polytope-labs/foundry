@@ -73,4 +73,4 @@ ethers-etherscan = { git = "https://github.com/polytope-labs/ethers-rs", rev = "
 ethers-solc = { git = "https://github.com/polytope-labs/ethers-rs", rev = "a61f4fd78cd9a417c74a1609e5007e17f0f0ebb4", default-features = false }
 
 solang-parser = "=0.3.1"
-revm = { git = "https://github.com/bluealloy/revm/", rev = "88337924f4d16ed1f5e4cde12a03d0cb755cd658" }
+revm = { git = "https://github.com/polytope-labs/revm/", rev = "c681ca0d51b21a16595cb4c5795832d938ce2dc2" }
